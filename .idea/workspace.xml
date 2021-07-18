@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a309557-b820-4f62-b4a4-ec53bf040cef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/design/META-INF/design.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/DecoraionMode/ConcreteDecoratorA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/DecoraionMode/ConcreteDecoratorB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/DecoraionMode/Decorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/DecoraionMode/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/DecoraionMode/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/OperationAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/OperationDiv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/OperationMul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/OperationSub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/SimpleFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/CashStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/CashStrategyA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/CashStrategyB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/CashStrategyC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/Context.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoraionMode/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoraionMode/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoraionMode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoraionMode/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding>
+                <element signature="e#103#104#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Decorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="41" />
+              <folding>
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/SimpleFactoryDesign/OperationAdd.java" />
+        <option value="$PROJECT_DIR$/src/SimpleFactoryDesign/OperationDiv.java" />
+        <option value="$PROJECT_DIR$/src/SimpleFactoryDesign/OperationSub.java" />
+        <option value="$PROJECT_DIR$/src/SimpleFactoryDesign/OperationMul.java" />
+        <option value="$PROJECT_DIR$/src/SimpleFactoryDesign/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/SimpleFactoryDesign/Operation.java" />
+        <option value="$PROJECT_DIR$/src/SimpleFactoryPattern/Operation.java" />
+        <option value="$PROJECT_DIR$/src/SimpleFactoryPattern/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/SimpleFactoryPattern/Main.java" />
+        <option value="$PROJECT_DIR$/src/StrategyMode/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/StrategyMode/StrategyA.java" />
+        <option value="$PROJECT_DIR$/src/StrategyMode/StrategyB.java" />
+        <option value="$PROJECT_DIR$/src/StrategyMode/CashStrategy.java" />
+        <option value="$PROJECT_DIR$/src/StrategyMode/CashStrategyA.java" />
+        <option value="$PROJECT_DIR$/src/StrategyMode/CashStrategyB.java" />
+        <option value="$PROJECT_DIR$/src/StrategyMode/Context.java" />
+        <option value="$PROJECT_DIR$/src/StrategyMode/CashStrategyC.java" />
+        <option value="$PROJECT_DIR$/src/StrategyMode/Main.java" />
+        <option value="$PROJECT_DIR$/src/DecoraionMode/ConcreteComponent.java" />
+        <option value="$PROJECT_DIR$/src/DecoraionMode/ConDecorator.java" />
+        <option value="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecorator.java" />
+        <option value="$PROJECT_DIR$/src/DecoraionMode/Person.java" />
+        <option value="$PROJECT_DIR$/src/DecoraionMode/Decorator.java" />
+        <option value="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorB.java" />
+        <option value="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorA.java" />
+        <option value="$PROJECT_DIR$/src/DecoraionMode/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="designMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designMode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DecoraionMode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/designMode" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SimpleFactoryDesign" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DecoraionMode" />
+      <recent name="StrategyMode" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrategyMode.Main" />
+      <module name="designMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StrategyMode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleFactoryMode.SimpleFactory" />
+      <module name="designMode" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecoraionMode.Main" />
+      <module name="designMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DecoraionMode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56822" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a309557-b820-4f62-b4a4-ec53bf040cef" name="Default Changelist" comment="" />
+      <created>1624682488169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624682488169</updated>
+      <workItem from="1624682492849" duration="6509000" />
+      <workItem from="1626438198386" duration="1135000" />
+      <workItem from="1626500985006" duration="7607000" />
+      <workItem from="1626511775008" duration="7957000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.简单工厂模式">
+      <created>1626512155846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626512155846</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2.策略模式">
+      <created>1626512373013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626512373013</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3.装饰模式">
+      <created>1626599279829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626599279829</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23208000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39836067" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32786885" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32786885" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
+    <MESSAGE value="1.简单工厂模式" />
+    <MESSAGE value="2.策略模式" />
+    <MESSAGE value="3.装饰模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.装饰模式" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SimpleFactoryMode/OperationAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleFactoryMode/OperationSub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleFactoryMode/OperationDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleFactoryMode/OperationMul.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleFactoryMode/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleFactoryMode/SimpleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleFactoryMode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyMode/CashStrategyB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyMode/CashStrategyA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyMode/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyMode/CashStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyMode/CashStrategyC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="92" selection-start-line="15" selection-start-column="92" selection-end-line="15" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyMode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

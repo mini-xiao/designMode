@@ -4,7 +4,7 @@ public abstract class Decorator extends Person{
 
     private Person component;
 
-    public Decorator(Person component) {
+    public void Decorate(Person component) {
         this.component = component;
     }
 
