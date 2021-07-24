@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a309557-b820-4f62-b4a4-ec53bf040cef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/design/META-INF/design.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/DecoraionMode/ConcreteDecoratorA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/DecoraionMode/ConcreteDecoratorB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/DecoraionMode/Decorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/DecoraionMode/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/DecoraionMode/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/Operation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/OperationAdd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/OperationDiv.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/OperationMul.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/OperationSub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/SimpleFactoryMode/SimpleFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/CashStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/CashStrategyA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/CashStrategyB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/CashStrategyC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/Context.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designMode/StrategyMode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoraionMode/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoraionMode/Decorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoraionMode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoraionMode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProxyMode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProxyMode/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProxyMode/RealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProxyMode/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,57 +20,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ProxyMode/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="184">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/ProxyMode/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProxyMode/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+              <folding>
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProxyMode/RealSubject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
               <folding>
                 <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Decorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="41" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="41" />
-              <folding>
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -143,6 +107,10 @@
         <option value="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorB.java" />
         <option value="$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorA.java" />
         <option value="$PROJECT_DIR$/src/DecoraionMode/Main.java" />
+        <option value="$PROJECT_DIR$/src/ProxyMode/Subject.java" />
+        <option value="$PROJECT_DIR$/src/ProxyMode/RealSubject.java" />
+        <option value="$PROJECT_DIR$/src/ProxyMode/Proxy.java" />
+        <option value="$PROJECT_DIR$/src/ProxyMode/Main.java" />
       </list>
     </option>
   </component>
@@ -158,6 +126,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,14 +144,12 @@
               <item name="designMode" type="b2602c69:ProjectViewProjectNode" />
               <item name="designMode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DecoraionMode" type="462c0819:PsiDirectoryNode" />
+              <item name="ProxyMode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,6 +169,7 @@
       <recent name="SimpleFactoryDesign" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ProxyMode" />
       <recent name="DecoraionMode" />
       <recent name="StrategyMode" />
     </key>
@@ -224,6 +193,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StrategyMode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProxyMode.Main" />
+      <module name="designMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProxyMode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,7 +319,8 @@
       <workItem from="1624682492849" duration="6509000" />
       <workItem from="1626438198386" duration="1135000" />
       <workItem from="1626500985006" duration="7607000" />
-      <workItem from="1626511775008" duration="7957000" />
+      <workItem from="1626511775008" duration="8588000" />
+      <workItem from="1627111293375" duration="1028000" />
     </task>
     <task id="LOCAL-00001" summary="1.简单工厂模式">
       <created>1626512155846</created>
@@ -360,11 +343,18 @@
       <option name="project" value="LOCAL" />
       <updated>1626599279829</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3.装饰模式">
+      <created>1626599795746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626599795746</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23208000" />
+    <option name="totallyTimeSpent" value="24867000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,8 +367,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -550,10 +541,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorA.java">
+    <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -564,34 +562,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/DecoraionMode/ConcreteDecoratorA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DecoraionMode/Decorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="41" />
+        <state relative-caret-position="184">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProxyMode/RealSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
           <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProxyMode/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProxyMode/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProxyMode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
